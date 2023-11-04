@@ -1,0 +1,240 @@
+,name,continent,independence_year,life_expectancy
+0,Aruba,North America,,78.4
+1,Afghanistan,Asia,1919.0,45.9
+2,Angola,Africa,1975.0,38.3
+3,Anguilla,North America,,76.1
+4,Albania,Europe,1912.0,71.6
+5,Andorra,Europe,1278.0,83.5
+6,Netherlands Antilles,North America,,74.7
+7,united Arab Emirates,Asia,1971.0,74.1
+8,Argentina,South America,1816.0,75.1
+9,Armenia,Asia,1991.0,66.4
+10,American Samoa,Oceania,,75.1
+11,Antarctica,Antarctica,,
+12,French Southern territories,Antarctica,,
+13,Antigua and Barbuda,North America,1981.0,70.5
+14,Australia,Oceania,1901.0,79.8
+15,Austria,Europe,1918.0,77.7
+16,Azerbaijan,Asia,1991.0,62.9
+17,Burundi,Africa,1962.0,46.2
+18,Belgium,Europe,1830.0,77.8
+19,Benin,Africa,1960.0,50.2
+20,Burkina Faso,Africa,1960.0,46.7
+21,Bangladesh,Asia,1971.0,60.2
+22,Bulgaria,Europe,1908.0,70.9
+23,Bahrain,Asia,1971.0,73.0
+24,Bahamas,North America,1973.0,71.1
+25,Bosnia and Herzegovina,Europe,1992.0,71.5
+26,Belarus,Europe,1991.0,68.0
+27,Belize,North America,1981.0,70.9
+28,Bermuda,North America,,76.9
+29,Bolivia,South America,1825.0,63.7
+30,Brazil,South America,1822.0,62.9
+31,Barbados,North America,1966.0,73.0
+32,Brunei,Asia,1984.0,73.6
+33,Bhutan,Asia,1910.0,52.4
+34,Bouvet Island,Antarctica,,
+35,Botswana,Africa,1966.0,39.3
+36,Central African Republic,Africa,1960.0,44.0
+37,Canada,North America,1867.0,79.4
+38,Cocos (Keeling) Islands,Oceania,,
+39,Switzerland,Europe,1499.0,79.6
+40,Chile,South America,1810.0,75.7
+41,China,Asia,-1523.0,71.4
+42,Cote dIvoire,Africa,1960.0,45.2
+43,Cameroon,Africa,1960.0,54.8
+44,"Congo, The Democratic Republic of the",Africa,1960.0,48.8
+45,Congo,Africa,1960.0,47.4
+46,Cook Islands,Oceania,,71.1
+47,Colombia,South America,1810.0,70.3
+48,Comoros,Africa,1975.0,60.0
+49,Cape Verde,Africa,1975.0,68.9
+50,Costa Rica,North America,1821.0,75.8
+51,Cuba,North America,1902.0,76.2
+52,Christmas Island,Oceania,,
+53,Cayman Islands,North America,,78.9
+54,Cyprus,Asia,1960.0,76.7
+55,Czech Republic,Europe,1993.0,74.5
+56,Germany,Europe,1955.0,77.4
+57,Djibouti,Africa,1977.0,50.8
+58,Dominica,North America,1978.0,73.4
+59,Denmark,Europe,800.0,76.5
+60,Dominican Republic,North America,1844.0,73.2
+61,Algeria,Africa,1962.0,69.7
+62,Ecuador,South America,1822.0,71.1
+63,Egypt,Africa,1922.0,63.3
+64,Eritrea,Africa,1993.0,55.8
+65,Western Sahara,Africa,,49.8
+66,Spain,Europe,1492.0,78.8
+67,Estonia,Europe,1991.0,69.5
+68,Ethiopia,Africa,-1000.0,45.2
+69,Finland,Europe,1917.0,77.4
+70,Fiji Islands,Oceania,1970.0,67.9
+71,Falkland Islands,South America,,
+72,France,Europe,843.0,78.8
+73,Faroe Islands,Europe,,78.4
+74,"Micronesia, Federated States of",Oceania,1990.0,68.6
+75,Gabon,Africa,1960.0,50.1
+76,united Kingdom,Europe,1066.0,77.7
+77,Georgia,Asia,1991.0,64.5
+78,Ghana,Africa,1957.0,57.4
+79,Gibraltar,Europe,,79.0
+80,Guinea,Africa,1958.0,45.6
+81,Guadeloupe,North America,,77.0
+82,Gambia,Africa,1965.0,53.2
+83,Guinea-Bissau,Africa,1974.0,49.0
+84,Equatorial Guinea,Africa,1968.0,53.6
+85,Greece,Europe,1830.0,78.4
+86,Grenada,North America,1974.0,64.5
+87,Greenland,North America,,68.1
+88,Guatemala,North America,1821.0,66.2
+89,French Guiana,South America,,76.1
+90,Guam,Oceania,,77.8
+91,Guyana,South America,1966.0,64.0
+92,Hong Kong,Asia,,79.5
+93,Heard Island and McDonald Islands,Antarctica,,
+94,Honduras,North America,1838.0,69.9
+95,Croatia,Europe,1991.0,73.7
+96,Haiti,North America,1804.0,49.2
+97,Hungary,Europe,1918.0,71.4
+98,Indonesia,Asia,1945.0,68.0
+99,India,Asia,1947.0,62.5
+100,British Indian Ocean Territory,Africa,,
+101,Ireland,Europe,1921.0,76.8
+102,Iran,Asia,1906.0,69.7
+103,Iraq,Asia,1932.0,66.5
+104,Iceland,Europe,1944.0,79.4
+105,Israel,Asia,1948.0,78.6
+106,Italy,Europe,1861.0,79.0
+107,Jamaica,North America,1962.0,75.2
+108,Jordan,Asia,1946.0,77.4
+109,Japan,Asia,-660.0,80.7
+110,Kazakstan,Asia,1991.0,63.2
+111,Kenya,Africa,1963.0,48.0
+112,Kyrgyzstan,Asia,1991.0,63.4
+113,Cambodia,Asia,1953.0,56.5
+114,Kiribati,Oceania,1979.0,59.8
+115,Saint Kitts and Nevis,North America,1983.0,70.7
+116,South Korea,Asia,1948.0,74.4
+117,Kuwait,Asia,1961.0,76.1
+118,Laos,Asia,1953.0,53.1
+119,Lebanon,Asia,1941.0,71.3
+120,Liberia,Africa,1847.0,51.0
+121,Libyan Arab Jamahiriya,Africa,1951.0,75.5
+122,Saint Lucia,North America,1979.0,72.3
+123,Liechtenstein,Europe,1806.0,78.8
+124,Sri Lanka,Asia,1948.0,71.8
+125,Lesotho,Africa,1966.0,50.8
+126,Lithuania,Europe,1991.0,69.1
+127,Luxembourg,Europe,1867.0,77.1
+128,Latvia,Europe,1991.0,68.4
+129,Macao,Asia,,81.6
+130,Morocco,Africa,1956.0,69.1
+131,Monaco,Europe,1861.0,78.8
+132,Moldova,Europe,1991.0,64.5
+133,Madagascar,Africa,1960.0,55.0
+134,Maldives,Asia,1965.0,62.2
+135,Mexico,North America,1810.0,71.5
+136,Marshall Islands,Oceania,1990.0,65.5
+137,Macedonia,Europe,1991.0,73.8
+138,Mali,Africa,1960.0,46.7
+139,Malta,Europe,1964.0,77.9
+140,Myanmar,Asia,1948.0,54.9
+141,Mongolia,Asia,1921.0,67.3
+142,Northern Mariana Islands,Oceania,,75.5
+143,Mozambique,Africa,1975.0,37.5
+144,Mauritania,Africa,1960.0,50.8
+145,Montserrat,North America,,78.0
+146,Martinique,North America,,78.3
+147,Mauritius,Africa,1968.0,71.0
+148,Malawi,Africa,1964.0,37.6
+149,Malaysia,Asia,1957.0,70.8
+150,Mayotte,Africa,,59.5
+151,Namibia,Africa,1990.0,42.5
+152,New Caledonia,Oceania,,72.8
+153,Niger,Africa,1960.0,41.3
+154,Norfolk Island,Oceania,,
+155,Nigeria,Africa,1960.0,51.6
+156,Nicaragua,North America,1838.0,68.7
+157,Niue,Oceania,,
+158,Netherlands,Europe,1581.0,78.3
+159,Norway,Europe,1905.0,78.7
+160,Nepal,Asia,1769.0,57.8
+161,Nauru,Oceania,1968.0,60.8
+162,New Zealand,Oceania,1907.0,77.8
+163,Oman,Asia,1951.0,71.8
+164,Pakistan,Asia,1947.0,61.1
+165,Panama,North America,1903.0,75.5
+166,Pitcairn,Oceania,,
+167,Peru,South America,1821.0,70.0
+168,Philippines,Asia,1946.0,67.5
+169,Palau,Oceania,1994.0,68.6
+170,Papua New Guinea,Oceania,1975.0,63.1
+171,Poland,Europe,1918.0,73.2
+172,Puerto Rico,North America,,75.6
+173,North Korea,Asia,1948.0,70.7
+174,Portugal,Europe,1143.0,75.8
+175,Paraguay,South America,1811.0,73.7
+176,Palestine,Asia,,71.4
+177,French Polynesia,Oceania,,74.8
+178,Qatar,Asia,1971.0,72.4
+179,Reunion,Africa,,72.7
+180,Romania,Europe,1878.0,69.9
+181,Russian Federation,Europe,1991.0,67.2
+182,Rwanda,Africa,1962.0,39.3
+183,Saudi Arabia,Asia,1932.0,67.8
+184,Sudan,Africa,1956.0,56.6
+185,Senegal,Africa,1960.0,62.2
+186,Singapore,Asia,1965.0,80.1
+187,South Georgia and the South Sandwich Islands,Antarctica,,
+188,Saint Helena,Africa,,76.8
+189,Svalbard and Jan Mayen,Europe,,
+190,Solomon Islands,Oceania,1978.0,71.3
+191,Sierra Leone,Africa,1961.0,45.3
+192,El Salvador,North America,1841.0,69.7
+193,San Marino,Europe,885.0,81.1
+194,Somalia,Africa,1960.0,46.2
+195,Saint Pierre and Miquelon,North America,,77.6
+196,Sao Tome and Principe,Africa,1975.0,65.3
+197,Suriname,South America,1975.0,71.4
+198,Slovakia,Europe,1993.0,73.7
+199,Slovenia,Europe,1991.0,74.9
+200,Sweden,Europe,836.0,79.6
+201,Swaziland,Africa,1968.0,40.4
+202,Seychelles,Africa,1976.0,70.4
+203,Syria,Asia,1941.0,68.5
+204,Turks and Caicos Islands,North America,,73.3
+205,Chad,Africa,1960.0,50.5
+206,Togo,Africa,1960.0,54.7
+207,Thailand,Asia,1350.0,68.6
+208,Tajikistan,Asia,1991.0,64.1
+209,Tokelau,Oceania,,
+210,Turkmenistan,Asia,1991.0,60.9
+211,East Timor,Asia,,46.0
+212,Tonga,Oceania,1970.0,67.9
+213,Trinidad and Tobago,North America,1962.0,68.0
+214,Tunisia,Africa,1956.0,73.7
+215,Turkey,Asia,1923.0,71.0
+216,Tuvalu,Oceania,1978.0,66.3
+217,Taiwan,Asia,1945.0,76.4
+218,Tanzania,Africa,1961.0,52.3
+219,uganda,Africa,1962.0,42.9
+220,ukraine,Europe,1991.0,66.0
+221,united States Minor Outlying Islands,Oceania,,
+222,uruguay,South America,1828.0,75.2
+223,united States,North America,1776.0,77.1
+224,uzbekistan,Asia,1991.0,63.7
+225,Holy See (Vatican City State),Europe,1929.0,
+226,Saint Vincent and the Grenadines,North America,1979.0,72.3
+227,Venezuela,South America,1811.0,73.1
+228,"Virgin Islands, British",North America,,75.4
+229,"Virgin Islands, u.S.",North America,,78.1
+230,Vietnam,Asia,1945.0,69.3
+231,Vanuatu,Oceania,1980.0,60.6
+232,Wallis and Futuna,Oceania,,
+233,Samoa,Oceania,1962.0,69.2
+234,Yemen,Asia,1918.0,59.8
+235,Yugoslavia,Europe,1918.0,72.4
+236,South Africa,Africa,1910.0,51.1
+237,Zambia,Africa,1964.0,37.2
+238,Zimbabwe,Africa,1980.0,37.8
